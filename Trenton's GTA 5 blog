@@ -1,0 +1,60 @@
+<!DOCtype HTML> 
+<html>
+ <head>
+<title>TRENT'S GRAND THEFT AUTO 5 BLOG</title>
+<link href="grandtheft.css" type="text/css" rel="stylesheet"> 
+</head>
+ <body>
+<div class="introduction">
+<h1>Trenton's</h1>
+<h2> Grand Theft Auto 5 BLOG</h2>
+ <ul>
+  <li><a href="#Micheal">Micheal</a></li>
+  <li><a href="#Franklin">Franklin</a></li>
+  <li><a href="#Trevor">Trevor</a></li>
+</ul>
+<img src="http://wallpup.com/wp-content/uploads/2013/03/Grand-Theft-Auto-v-Wallpaper.jpg"width="400" length="300">
+<p id="city"> Grand theft auto 5 (gta5) takes place on an island with a city called Los Santos and a coumtry side called blaime county. There are three main charicters in gta5, Micheal, Franklin, and Trever.</p>
+</div>
+<div id="Micheal">
+<img src="http://www.gta.cz/data/gta5/_novinky/2013/michael.jpg"width="300" length="160">
+<div>
+<p>Micheal is a bank robber who became so lazy he retired in his 30s and is franklin's mentor.</p> 
+<a href="Trenton GTA 5 Blog/M-Journal.html">Micheal's Journal</a>
+<p class= "legend>Suggestions</p>
+<fieldset id= "Comments">
+<textarea name= "comments" rows= "3"cols= "77">Add comments about character here.</textarea>
+</fieldset>
+<div id="Franklin">
+<img src="https://tse1.mm.bing.net/th?id=OIP.hEjMC9L-Uofrwab_y8iL8wHaEo&w=259&h=160&c=7&o=5&pid=1.7"width="300" length="160">
+<div>
+<p>Franklin is a rookie ganster who lives with his aunt in a crapy portion of Los Santos. </p>
+<a href="Trenton GTA 5 Blog/F-Journal.html">Franklin's Journal</a>
+
+<div id="Character Comments">
+<p class="legend">Character Comments</p>
+<fieldset id= "Character comments">
+<form method="post" action="2.php"> 
+<textarea name= "comments" rows= "3"cols= "77">Add comments about character here.</textarea>
+</fieldset>
+<p id="buttons"><input type="Submit" value="Send" /><input type="reset" value="Start Over" /></p>
+</form>
+</div>
+
+<div>
+<img src="https://tse1.mm.bing.net/th?id=OIP.bS0zlzyT0wSPScQOjfAcegEsCo&w=300&h=168&c=7&o=5&pid=1.7"width="300" length="160">
+</div>
+<div id="Trevor">
+<p id= Trevor>Trever is a very violent hot head who wont hesitat to kill or torture and is 
+a close friend to Michel.</p>
+<a href="Trenton GTA 5 Blog/T-Journal.html">Trevor's Journal</a>
+
+<div id="Character Comments">
+<p class= "legend>Character Comments</p>
+<fieldset id= "Character Comments">
+<textarea name= "comments" rows= "3"cols= "77">Add comments about character here.</textarea>
+<p id="buttons"><input type="Submit" value="Send" /><input type="reset" value="Start Over" /></p>
+</fieldset>
+</div>
+</body>
+</html>
